@@ -1,0 +1,10 @@
+com/mlc/cucumber/steps/LifeviewReqDemoPageStepDef.class
+com/mlc/utils/ReusableSpecifications.class
+com/mlc/cucumber/steps/MLCHomePageStepDef.class
+com/mlc/cucumber/serenity/ATOSimpleTaxCalcSteps.class
+com/mlc/cucumber/mlctestrunner.class
+com/mlc/cucumber/steps/LifeviewPageStepdef.class
+com/mlc/cucumber/steps/ATOTaxCalcStepDef.class
+com/mlc/cucumber/serenity/MLCLifeViewSteps.class
+com/mlc/cucumber/steps/AusPostAPIStepDef.class
+com/mlc/cucumber/serenity/AusPostAPISteps.class

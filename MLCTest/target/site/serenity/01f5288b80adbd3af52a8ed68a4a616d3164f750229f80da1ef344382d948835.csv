@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Automation Test - MLCInsurance","Test1- Check form validation for the Request a LifeView demo for MLCInsurance Lifeview","SUCCESS","2020-01-27T21:46:41.30096+11:00[Australia/Melbourne]","0.0","18.67"
+"Automation Test - MLCInsurance","Test2- To verify calculated tax for 3 combinations of assessment year, income and residency status","SUCCESS","2020-01-27T21:47:00.225611+11:00[Australia/Melbourne]","0.0","23.64"
+"Automation Test - MLCInsurance","Test3 -To calculate shipping costs for parcels of different weights to 3 countries using the Australia Post API","SUCCESS","2020-01-27T21:47:23.866745+11:00[Australia/Melbourne]","0.0","2.72"
