@@ -16,23 +16,14 @@ import net.thucydides.core.annotations.Managed;
 import net.thucydides.core.annotations.Steps;
 import net.thucydides.junit.annotations.UseTestDataFrom;
 
-@RunWith(SerenityParameterizedRunner.class)
-@UseTestDataFrom("testdata/ATOTaxCalTestData.csv")
+//@RunWith(SerenityParameterizedRunner.class)
+//@UseTestDataFrom("testdata/ATOTaxCalTestData.csv")
 
 public class ATOTaxCalcStepDef {
 	
 	@Managed(driver="chrome", uniqueSession = true)                              
 	WebDriver driver;
-	
-	
-	
-	private String incomeYear;
-	private float taxableIncome;
-    private String residencyStatus;
-    private String monthsOfResidency;
-    private float calculatedTaxExpected;
-   
-   
+ 
 	@Steps
 	ATOSimpleTaxCalcSteps ATOCalc;
 	

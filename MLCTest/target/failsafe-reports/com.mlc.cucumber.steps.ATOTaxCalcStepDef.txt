@@ -1,7 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.mlc.cucumber.steps.ATOTaxCalcStepDef
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.549 s <<< FAILURE! - in com.mlc.cucumber.steps.ATOTaxCalcStepDef
-initializationError(com.mlc.cucumber.steps.ATOTaxCalcStepDef)  Time elapsed: 0.006 s  <<< ERROR!
-java.lang.IllegalStateException: Parameterized test should have at least one @Test method
-
