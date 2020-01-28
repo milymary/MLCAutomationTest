@@ -4,7 +4,8 @@
 3. Australia Post API to calculate shipping costs for parcels of different weights to at least three countries.
 
 
-Built With:
+Built With
+
 	•	Serenity BDD
 	•	Maven
 	•	Cucumber
@@ -15,30 +16,36 @@ Built With:
 	•	Serenity reports
 	•	Cucumber data tables and data driven testing using Examples
 
-Requirements:
+Requirements
+
 	In order to utilise this project you need to have the following installed locally:
 	•	Maven (maven-3.6.1 is used )
 	•	Chrome and Chromedriver (UI tests use Chrome by default, can be changed in serenity.properties file)
 	•	Java 1.8(1.7 or above)
 
 
-Steps to Run the code from local:	
+Set Up
+
+	- Clone this project from "https://github.com/milymary/MLCAutomationTest.git"
 Access the project folder from your console/terminal and give the following commands:
 	mvn clean verify serenity:aggregate
 	
-Reporting:
+Reporting
+
 	Reports for each module are written into their respective /target directories after a successful run.
 	Serenity reports get generated once a successful build run has been completed.
 	These can be accessed from the MLCTest/target/site/serenity/index.html 
 
 	
-Authors:
+Authors
 Mily Mary Chacko
 
-License:
+License
 This project is created under a public repository on my personal GIT account.
 
-Acknowledgments:
+Acknowledgments
+
 For the detailed explanation on how to incorporate individual knowledge into the framework designed- Serenity Framework: http://www.thucydides.info/#/
+
 
 
